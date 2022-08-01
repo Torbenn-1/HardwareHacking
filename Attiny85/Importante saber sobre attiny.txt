@@ -1,0 +1,31 @@
+Lang = Pt-br
+
+-------------------------------------------------------------------------------
+Prós de Attiny85
+
+- Custo benefício
+- Fácil aquisição (easy to buy)
+- Fácil de esconder (easy to hide/disguise)
+- Configuração amigável
+-------------------------------------------------------------------------------
+Contras do Attiny85
+
+- fácil de queimar
+- ruim no linux
+- falta de driver para sistemas que não sejam windows
+- consideravelmente mais lento para carregar o código
+
+____________________________________________________________________________________________________________________________________________________________
+Current Overview
+
+- Ferramenta excepcional para intrusão e muito boa para ser usada junto com engenharia social
+- Por poder se disfarçar fácilmente de pendrive, pode ser deixado em algum lugar específico e conhecendo a vítima, um vasto leque de ataques se abre 
+- pode ser embutido e disfarçado em vários dispositivos como carregadores USB, Pendrives, tomadas, etc.
+- Otimo para atacar smarthomes
+
+
+____________________________________________________________________________________________________________________________________________________________
+General Fails
+- não reconhece outros modelos de teclado além do americano, por isso deve ser feito usando uma "adaptação" para clicar na tecla correta(caso seja usado como HID)
+- Ausência de conteúdo para se consumir sobre o mesmo é frustrante
+-
