@@ -6,3 +6,6 @@ Hope everybody enjoy :)
 Tools in this repo *Currently
 
 Attiny85(BadUsb)
+
+## Existem 2 tipos de attiny 
+cada um deles contem uma conexão diferente 
